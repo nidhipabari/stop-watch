@@ -1,0 +1,39 @@
+
+
+#sw{
+    align-items: center;
+    margin-left: 680px;
+    margin-top: 350px;
+    
+}
+#button{
+    align-items: center;
+    
+}
+
+.time{
+    padding-left: 17px;
+    padding-bottom: 20px;
+}
+
+h1{
+    padding-left: 65px;
+}
+/* #hours{
+    padding-right: 25px;
+    font-size: xx-large;
+    align-items: center;
+    
+}
+#mins{
+    padding-right: 25px;
+    font-size: xx-large;
+    align-items: center;
+    
+}
+#secs{
+    padding-right: 25px;
+    font-size: xx-large;
+    align-items: center;
+    
+} */
